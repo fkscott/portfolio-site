@@ -50,6 +50,16 @@
             ></Card>
         </div>
     </div>
+
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-4">
+            <Card
+                cardTitle={"All About GT3"}
+                cardDescription={"Static site designed for my Web I coursework. It uses HTML, CSS, and vanilla Javascript to show different information about the GT3 class of touring car racing"}
+                cardLink={"https://www.web1projects.com/2021/keagan-scott/index.html"}
+            ></Card>
+        </div>
+    </div>
 </div>
 </main>
 
