@@ -33,7 +33,8 @@
     }
 
     #about-me{
-        font-family: 'HiraginoRegular', sans-serif;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
     }
     .project-heading{
         font-family: 'Romana', serif;

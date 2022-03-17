@@ -29,13 +29,16 @@
      }
  
      .card-title{
-         font-family: 'HiraginoBold', sans-serif;
+         font-family: 'Raleway', sans-serif;
+         font-weight: 600;
         margin: 10px;
      }
  
      .card-body{
- 
-         font-family: 'HiraginoRegular', sans-serif;
+        
+         font-family: 'Raleway', sans-serif;
+         font-weight: 400;
+         font-size: 12pt;
      }
  
      .card-link{
@@ -46,7 +49,8 @@
  
          text-decoration: none;
          font-size: 16pt;
-         font-family: 'HiraginoBold', sans-serif;
+         font-family: 'Raleway', sans-serif;
+         font-weight: 600;
  
          transition: 0.2s; 
  

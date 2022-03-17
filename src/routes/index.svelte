@@ -70,11 +70,13 @@
 	}
 
     #about-text{
-        font-family: HiraginoRegular, 'sans-serif';
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
     }
 
     .project-link{
-        font-family: 'HiraginoBold', sans-serif;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
         color: white;
         background-color: #40798C;
         text-decoration: none;

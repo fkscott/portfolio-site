@@ -36,7 +36,8 @@
 
 <style>
 	.navbar-nav a{
-		font-family: 'HiriginoBold', sans-serif;
+		font-family: 'Raleway', 'Arial', sans-serif;
+		font-weight: 400;
 		font-size: 24pt;
 		text-decoration: none;
 		padding-inline: 30px;
