@@ -25,6 +25,10 @@
 				  <li class="nav-item" id="projects-link">
 					<a class="nav-link {$page.url.pathname === '/projects' ? 'active': ''}"  href="/projects">projects</a>
 				  </li>
+
+				  <li class="nav-item" id="projects-link">
+					<a class="nav-link {$page.url.pathname === '/graphics' ? 'active': ''}"  href="/graphics">graphics</a>
+				  </li>
 				</ul>
 			  </div>
 			</div>
