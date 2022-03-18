@@ -35,6 +35,9 @@
             <a href="/projects" class="col-md-6 px-3 project-link text-center d-flex align-items-center justify-content-center">
                 projects
             </a>
+            <a href="/graphics" class="col-md-6 px-3 project-link text-center d-flex align-items-center justify-content-center">
+                graphics
+            </a>
         </div>
 
         <div class="row py-3 socials justify-conent-center">
